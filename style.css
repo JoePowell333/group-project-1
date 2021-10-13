@@ -40,3 +40,8 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+.Joes-style {
+    color: blue;
+    background-color: rgb(165, 164, 164);
+    padding: 3px;
+}
